@@ -1,4 +1,6 @@
 # ibox-wxcloud
-ibox 7月最新微信网关解决方案，基于纯算法，可部署win linux mac
+x-wx-callid和x-wx-authcode算法
+ibox 7月15日最新微信网关解决方案，基于纯算法，可部署win linux mac
+x-wx-callid和x-wx-authcode算法
 
 ## vx:irabbit666
